@@ -1,0 +1,6 @@
+C:\Users\Rymas\source\repos\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\Rymas\source\repos\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\Rymas\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+C:\Users\Rymas\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\Rymas\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\Rymas\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.pdb

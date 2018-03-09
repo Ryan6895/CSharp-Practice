@@ -1,0 +1,16 @@
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\bin\Debug\ACM.BLTEST.dll
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\bin\Debug\ACM.BLTEST.pdb
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\bin\Debug\ACM.BL.dll
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\bin\Debug\ACM.BL.pdb
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\obj\Debug\ACM.BLTEST.csprojResolveAssemblyReference.cache
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\obj\Debug\ACM.BLTEST.csproj.CoreCompileInputs.cache
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\obj\Debug\ACM.BLTEST.csproj.CopyComplete
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\obj\Debug\ACM.BLTEST.dll
+C:\Users\Rymas\source\repos\ACM\ACM.BLTEST\obj\Debug\ACM.BLTEST.pdb
